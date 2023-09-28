@@ -1,6 +1,6 @@
 <!-- Intro Banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=C7003B&height=300&section=header&text=Pixels%20with%20a%20purpose%20&fontSize=70&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=C7003B&height=300&section=header&text=Pixels%20with%20a%20purpose%20&fontSize=70&fontColor=ffffff" />
 
 <!-- Intro Text -->
 
