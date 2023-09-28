@@ -1,5 +1,5 @@
 <body style="background:#000">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=auto&height=300&section=header&text=Creating%20digital%20harmony&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=C7003B&height=300&section=header&text=Creating%20digital%20harmony&fontSize=70&fontColor=ffffff" />
 <h3 align="left">Hi, I'm Patrice, a front-end developer with a keen eye for design, dedicated to turning ideas into visually appealing and intuitive web experiences through code and design</h3>
 
 - 🔭 I’m currently working on [Saukko (StadinAO)](https://github.com/VirittamoHelsinki/saukko-app/tree/dev)
