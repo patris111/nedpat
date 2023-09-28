@@ -14,9 +14,8 @@
 
 <!-- Stats Widgets -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedpat" alt="nedpat" /></p>
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nedpat&show_icons=true&title_color=feffff&text_color=feffff&bg_color=c7003b&locale=en&layout=compact" alt="nedpat" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedpat" alt="nedpat" /></p>
 
 <!-- Languages and tools icons -->
 
