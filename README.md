@@ -1,4 +1,9 @@
+<!-- Intro Banner -->
+
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C7003B&height=300&section=header&text=Pixels%20with%20a%20purpose%20&fontSize=70&fontColor=ffffff" />
+
+<!-- Intro Text -->
+
 <p>Hi, I'm Patrice, a front-end developer with a keen eye for design, dedicated to turning ideasinto visually appealing <br/> and intuitive web experiences through code and design.</p>
 
 - 🔭 I’m currently working on [Saukko (StadinAO)](https://github.com/VirittamoHelsinki/saukko-app/tree/dev)
@@ -7,11 +12,13 @@
 
 <br/>
 
+<!-- Stats Widgets -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nedpat&" alt="nedpat" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nedpat&show_icons=true&theme=dracula&locale=en&layout=compact" alt="nedpat" /></p>
 
+<!-- Languages and tools icons -->
 
 <h3 align="left">Languages and Tools:</h3>
 
