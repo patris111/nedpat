@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=C7003B&height=300&section=header&text=Pixels%20with%20a%20purpose%20&fontSize=70&fontColor=ffffff" />
-<h3 align="left">Hi, I'm Patrice, a front-end developer with a keen eye for design, dedicated to turning <br/>ideas into visually appealing and intuitive web experiences through code and design</h3>
+<h3 align="left">Hi, I'm Patrice, a front-end developer with a keen eye for design, dedicated to turning ideas&nbsp;<br/>into visually appealing and intuitive web experiences through code and design</h3>
 
+- 🔭 I’m currently working on [Saukko (StadinAO)](https://github.com/VirittamoHelsinki/saukko-app/tree/dev)
+
+- 📄 Know about my experiences [https://nedpat.github.io/website/](https://nedpat.github.io/website/)
 
 <br/>
 
