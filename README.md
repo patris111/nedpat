@@ -6,7 +6,7 @@
 
 <p>Hi, I'm Patrice, a front-end developer with a keen eye for design, dedicated to turning ideas into visually appealing <br/> and intuitive web experiences through code and design.</p>
 
-- 🔭 I was previously working on [Saukko (StadinAO)](https://github.com/VirittamoHelsinki/saukko-app/tree/dev) and Uraohjain+ (StadinAO, Metropolia, Laurea)
+- 🔭 The projects I worked on most recently: [Saukko (StadinAO)](https://github.com/VirittamoHelsinki/saukko-app/tree/dev) and Uraohjain+ (StadinAO, Metropolia, Laurea)
 
 - 📄 Know about my experiences [https://nedpat.github.io/website/](https://nedpat.github.io/website/)
 
